@@ -1,0 +1,28 @@
+ALTER PROCEDURE [dbo].[Products_GetAll]
+(
+	@stringSearch NVARCHAR(200) = NULL
+)
+AS	
+BEGIN
+	IF (ISNULL(@stringSearch,'') = '' OR @stringSearch = '')
+		BEGIN
+			SELECT dbo.Products.[ID]
+				,dbo.Products.[Name]
+				,dbo.ProductTypes.Name AS TypeName
+				,dbo.Units.Name AS UnitName
+				,[Price]
+			FROM [dbo].[Products] JOIN dbo.ProductTypes ON ProductTypes.ID = Products.TypeID JOIN dbo.Units ON Units.ID = Products.UnitID
+			WHERE dbo.Products.IsDelete = 0
+		END	
+	ELSE
+		BEGIN
+			SELECT  dbo.Products.[ID]
+				,dbo.Products.[Name]
+				,dbo.ProductTypes.Name AS TypeName
+				,dbo.Units.Name AS UnitName
+				,[Price]
+		FROM [dbo].[Products] JOIN dbo.ProductTypes ON ProductTypes.ID = Products.TypeID JOIN dbo.Units ON Units.ID = Products.UnitID
+		WHERE 
+				(dbo.Products.Name LIKE '%'+@stringSearch+'%') AND ( dbo.Products.IsDelete = 0) 
+		END	
+END
