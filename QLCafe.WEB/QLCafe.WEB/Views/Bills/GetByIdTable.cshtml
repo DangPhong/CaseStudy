@@ -1,0 +1,46 @@
+﻿@model QLCafe.WEB.Models.Bills.Bills
+
+@{
+    ViewData["Title"] = "GetByIdTable";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1 style="color:red; font-family:'Times New Roman'"> @ViewBag.NameTable</h1>
+<div>
+    <p>
+        @*<a class="btn btn-outline-success" asp-controller="BillDetail" asp-action="BillDetailAddByID">Gọi Món</a>*@
+        @*<a asp-action="TableCoffeeToBook" asp-controller="TableCoffees" class="btn btn-outline-primary">Đặt Bàn</a>*@
+    </p>
+    <dl class="row" style="color:blue; font-family:'Times New Roman'">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateTimeCheckIn)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DateTimeCheckIn)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateTimeCheckOut)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DateTimeCheckOut)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StrStatus)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StrStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Gọi Món", "BillDetailAdd", "BillDetail", new { id = Model.ID }, new { @class="btn btn-primary btn-sm" })
+    @if (Model.HasBillDetails)
+    {
+        @Html.ActionLink("Chi Tiết Hóa Đơn", "BillDetailsViewAll", "BillDetail", new { id = Model.TableID }, new { @class="btn btn-success btn-sm" })
+    }
+</div>

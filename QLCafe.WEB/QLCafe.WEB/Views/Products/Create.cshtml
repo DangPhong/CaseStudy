@@ -1,0 +1,65 @@
+﻿@model QLCafe.WEB.Models.Products.ProductsCreate
+@using QLCafe.WEB.Models.ProductTypes;
+@using QLCafe.Web.Models.Unit;
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var productType = new List<ProductTypesView>();
+    productType = ViewBag.ProductTypes;
+    var units = new List<UnitView>();
+    units = ViewBag.units;
+}
+
+<h1>Create</h1>
+
+<h4>ProductsCreate</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (TempData["Message"] != null)
+            {
+                <p class="alert alert-success">@TempData["Message"]</p>
+            }
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeID" class="control-label"></label>
+                <select asp-for="TypeID" class="form-control">
+                    @foreach (var item in productType)
+                    {
+                        <option value="@item.ID">@item.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="TypeID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UnitID" class="control-label"></label>
+                <select asp-for="UnitID" class="form-control">
+                    @foreach (var item in units)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="UnitID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

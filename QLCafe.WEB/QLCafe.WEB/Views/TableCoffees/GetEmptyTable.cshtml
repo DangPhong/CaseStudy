@@ -1,0 +1,36 @@
+﻿@model IEnumerable<QLCafe.WEB.Models.TableCoffees.TableCoffeesGetEmptyTable>
+
+@{
+    ViewData["Title"] = "GetEmptyTable";
+}
+
+<h1 style="color:red">Danh Sách Bàn Trống</h1>
+
+<p>
+    <a class="btn btn-outline-primary" asp-controller="TableCoffees" asp-action="Create">Thêm Bàn</a>
+<div class="row">
+    <div class="col-sm-12">
+        <div class="row" style="color:darkblue">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3">
+                    <h4 class="panel-title">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </h4>
+                    <div>
+
+                        <img width="110" height="110" src="~/images/trong.png">
+
+                    </div>
+                    <h5>
+                        @Html.ActionLink("Chi Tiết", "Details", "TableCoffees", new { id = item.ID }, new { @class = "btn btn-outline-success btn-sm" })
+                    </h5>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-info" asp-controller="TableCoffees" asp-action="Index">Back to List</a>
+</div>

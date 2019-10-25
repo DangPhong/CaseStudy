@@ -1,0 +1,58 @@
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.deps.json
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CopyComplete
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.deps.json
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csprojAssemblyReference.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CoreCompileInputs.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfoInputs.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfo.cs
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CopyComplete
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.deps.json
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csprojAssemblyReference.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfoInputs.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfo.cs
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CopyComplete
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.deps.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csprojAssemblyReference.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfo.cs
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CopyComplete
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.deps.json
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csprojAssemblyReference.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfoInputs.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.AssemblyInfo.cs
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.csproj.CopyComplete
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.DAL.Interface\obj\Debug\netstandard2.0\QLCafe.DAL.Interface.pdb

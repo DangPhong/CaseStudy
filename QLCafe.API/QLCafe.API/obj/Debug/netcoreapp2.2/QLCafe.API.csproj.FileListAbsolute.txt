@@ -1,0 +1,129 @@
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.deps.json
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.json
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.dev.json
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorTargetAssemblyInfo.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CopyComplete
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.deps.json
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.json
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.dev.json
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csprojAssemblyReference.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CoreCompileInputs.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cs
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfoInputs.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfo.cs
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorTargetAssemblyInfo.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CopyComplete
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.deps.json
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.json
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.dev.json
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csprojAssemblyReference.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CoreCompileInputs.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cs
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfoInputs.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfo.cs
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorTargetAssemblyInfo.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CopyComplete
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.deps.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.dev.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csprojAssemblyReference.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cs
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfo.cs
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorTargetAssemblyInfo.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CopyComplete
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.deps.json
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.json
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.runtimeconfig.dev.json
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.API.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.Interface.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.BAL.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.Interface.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.DAL.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\bin\Debug\netcoreapp2.2\QLCafe.Domain.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csprojAssemblyReference.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorAssemblyInfo.cs
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfoInputs.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.AssemblyInfo.cs
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.RazorTargetAssemblyInfo.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.csproj.CopyComplete
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.API\obj\Debug\netcoreapp2.2\QLCafe.API.pdb

@@ -1,0 +1,28 @@
+﻿@model QLCafe.WEB.Models.Bills.BillsAdd
+
+@{
+    ViewData["Title"] = "BillsAdd";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h4>Hóa Đơn</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BillsAdd" asp-controller="Bills">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (TempData["messenger"] != null)
+            {
+                <p class="btn btn-success">@TempData["messenger"]</p>
+            }
+            <input hidden asp-for="TableID" class="form-control" />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

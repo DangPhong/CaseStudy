@@ -1,0 +1,47 @@
+﻿@model QLCafe.WEB.Models.TableCoffees.TableCoffeesDetail
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h1 style="color: red">Chi Tiết @ViewBag.NameTable</h1>
+
+<div>
+    <p>
+        <a asp-action="TableCoffeesToBook" asp-controller="TableCoffees" class="btn btn-outline-primary">Đặt Bàn</a>
+        <a asp-action="TableCoffeesToCanBook" asp-controller="TableCoffees" class="btn btn-outline-warning">Hủy Đặt Bàn</a>
+    </p>
+    <hr />
+    <dl class="row" style="color:darkblue">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Area)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Area)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StrStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StrStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-info" asp-controller="TableCoffees" asp-action="Index">Back to List</a>
+    @Html.ActionLink("Tạo Hóa Đơn", "BillsAdd", "Bills", new { id = Model.ID }, new { @class="btn btn-primary" })
+    @Html.ActionLink("Xóa Bàn", "Delete", "TableCoffees", new { id = Model.ID }, new { @class = "btn btn-danger" })
+</div>

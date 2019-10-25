@@ -1,0 +1,105 @@
+﻿@model IEnumerable<QLCafe.WEB.Models.BillDetail.BillDetailsViewAll>
+
+@{
+    ViewData["Title"] = "BillDetailsViewAll";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="color:red">Chi Tiết Hóa Đơn @ViewBag.NameTable</h1>
+
+<div>
+    <dl class="row" style="color:darkblue">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FirstOrDefault().ID
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateTimeCheckIn)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FirstOrDefault().DateTimeCheckIn
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateTimeCheckOut)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FirstOrDefault().DateTimeCheckOut
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StrStatus)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FirstOrDefault().StrStatus
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <table class="table" style="color:darkblue" border="1">
+        <thead>
+            <tr>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Number)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Total)
+                </th>
+                <th>
+                    Xóa
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Total)
+                    </td>
+                    <td align="center">
+                        @Html.ActionLink("Delete", "BillDetailDelete", "BillDetail", new { id = item.BillsDetailID }, new { @class = "btn btn-outline-danger btn-sm", onClick = "return confirm('Bạn có chắc chắn muốn xóa?' ) " })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <dl class="row" style="color:darkblue">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SumTotal)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FirstOrDefault().SumTotal
+        </dd>
+    </dl>
+</div>
+<div>
+    <dl class="row" style="color:darkblue">
+        <dt class="col-sm-10">
+            @Html.ActionLink("Thêm Món", "BillDetailAdd", "BillDetail", new { id = Model.FirstOrDefault().ID }, new { @class = "btn btn-primary btn-sm" })
+        </dt>
+        <dd class="col-sm-2">
+            @Html.ActionLink("Thanh Toán", "Pay", "BillDetail", new { id = Model.FirstOrDefault().TableID}, new { @class = "btn btn-primary btn-sm" })
+        </dd>
+    </dl>
+
+</div>

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QLCafe.Web.Models.Unit.UnitView>
+
+@{
+    ViewData["Title"] = "Unit Index";
+}
+
+<h1>Unit Index</h1>
+
+<p>
+    <a asp-controller="Unit" asp-action="UnitAdd">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "UnitUpdate", new { id = item.Id }, new { @class = "btn btn-outline-success" })
+                @Html.ActionLink("Details", "UnitDetails", new { id = item.Id }, new { @class = "btn btn-outline-info" })
+                @Html.ActionLink("Delete", "UnitDelete", new { id = item.Id }, new { @class = "btn btn-outline-danger", onClick = "return confirm('Bạn có chắc chắn muốn xóa?' ) " })
+               
+</tr>
+}
+    </tbody>
+</table>

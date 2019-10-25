@@ -1,0 +1,48 @@
+﻿@model QLCafe.WEB.Models.BillDetail.BillDetailAdd
+
+@{
+    ViewData["Title"] = "BillDetailAdd";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="color:red">Gọi Món</h1>
+
+<hr style="color:black"/>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BillDetailAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (TempData["ThanhCong"] != null)
+            {
+                <p class="btn btn-success">@TempData["ThanhCong"]</p>
+            }
+            @if (TempData["Loi"] != null)
+            {
+                <p class="btn btn-danger">@TempData["Loi"]</p>
+            }
+            <div class="form-group">
+
+                <input hidden asp-for="BillID" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductID" class="control-label"></label>
+                <input asp-for="ProductID" class="form-control" />
+                <span asp-validation-for="ProductID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Number" class="control-label"></label>
+                <input asp-for="Number" class="form-control" />
+                <span asp-validation-for="Number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm Món" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="TableCoffees" asp-action="Index">Hóa Đơn</a>
+</div>
+

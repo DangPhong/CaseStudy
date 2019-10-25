@@ -1,0 +1,53 @@
+﻿@model IEnumerable<QLCafe.Web.Models.Account.AccountView>
+
+@{
+    ViewData["Title"] = "AccountIndex";
+}
+
+<h1>AccountIndex</h1>
+
+<p>
+    <a asp-controller="Account" asp-action="AccountAdd">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Role)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Role)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "AccountEdit", new {id = item.Id}) |
+                @Html.ActionLink("Details", "AccountDetails", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "AccountDelete", new {id = item.Id})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

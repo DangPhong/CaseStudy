@@ -1,0 +1,43 @@
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csproj.CoreCompileInputs.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\SinhCodeGymHUE\module2\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csproj.CoreCompileInputs.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\Module2\QLCaFe\QLCaFe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csproj.CoreCompileInputs.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\QLCafe2\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+E:\Học hành\Codegym\QLCafe\QLCafe.API\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\CaseStudy3\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb

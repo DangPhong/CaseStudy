@@ -1,0 +1,52 @@
+﻿@model IEnumerable<QLCafe.WEB.Models.TableCoffees.TableCoffeesView>
+
+@{
+    ViewData["Title"] = "TableCoffees";
+}
+
+    <p>
+        <a class="btn btn-primary" asp-controller="TableCoffees" asp-action="Create">Thêm Bàn</a>
+       
+    </p>
+<div class="row">
+    <div class="col-sm-12">
+        <div class="row" style="color:darkblue">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3">
+                    <h4 class="panel-title" style="text-align:center">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </h4>
+                    <div style="text-align:center">
+                        @if (item.Status == 0)
+                        {
+                            <img width="110" height="110" src="~/images/trong.png">
+                        }
+                        @if (item.Status == 1)
+                        {
+                            <img width="110" height="110" src="~/images/cokhach.png">
+                        }
+                        @if (item.Status == 2)
+                        {
+                            <img width="110" height="110" src="~/images/dadat.png">
+                        }
+                    </div>
+                    <h5 style="text-align:center">
+                        @if (item.Status == 0 || item.Status == 2)
+                        {
+                            @Html.ActionLink("Chi Tiết", "Details", "TableCoffees", new { id = item.ID }, new { @class="btn btn-success btn-sm" })
+                        }
+                        @if (item.Status == 1)
+                        {
+                            @Html.ActionLink("Chi Tiết", "GetByIdTable", "Bills", new { id = item.ID }, new {@class="btn btn-success btn-sm"})
+                            @*@Html.ActionLink("Chi Tiết", "BillsView", "TableCoffees", new { id = item.ID }, new { @class = "btn btn-outline-success btn-sm" })*@
+                        }
+                    </h5>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+

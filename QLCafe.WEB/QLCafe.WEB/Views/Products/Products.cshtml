@@ -1,0 +1,55 @@
+﻿@model IEnumerable<QLCafe.WEB.Models.Products.Products>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Products</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+               TypeID
+            </th>
+            <th>
+               UnitID
+            </th>
+            <th>
+               Name
+            </th>
+            <th>
+               Price
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="tblData"></tbody>
+   
+</table>
+<script id="data-template" type="x-tmpl-mustache">
+    <tr>
+        <td>
+            {{ID}}
+        </td>
+        <td>
+            {{TypeID}}
+        </td>
+        <td>
+            {{UnitID}}
+        </td>
+        <td>
+            {{Name}}
+        </td>
+        <td>
+            {{Price}}
+        </td>
+    </tr>
+</script>
